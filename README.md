@@ -1,1 +1,1 @@
-# HoguwartsLegacy
+# HogwartsLegacy Clone Project

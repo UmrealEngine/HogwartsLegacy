@@ -1,6 +1,5 @@
 # HogwartsLegacy Game Clone Project
 
-[![Video Label](http://img.youtube.com/vi/ozDub8UpLtI/0.jpg)](https://youtu.be/ozDub8UpLtI)  
 https://youtu.be/eEwfXJjpjDk?si=FWD7N10K3sSAmHhx
 
 
